@@ -52,6 +52,9 @@ public:
     //==============================================================================
     void getStateInformation (juce::MemoryBlock& destData) override;
     void setStateInformation (const void* data, int sizeInBytes) override;
+    
+    // Menu choice for combo box
+    int menuChoice;
 
 private:
     //==============================================================================
