@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="HPA2hQ" name="mudhoney" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
+              companyName="Home Made">
   <MAINGROUP id="p9TMIM" name="mudhoney">
     <GROUP id="{DAFE6B46-BD20-D254-C257-031B88EFCF70}" name="Source">
       <FILE id="WGdy6u" name="PluginProcessor.cpp" compile="1" resource="0"

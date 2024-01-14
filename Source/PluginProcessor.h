@@ -55,6 +55,12 @@ public:
     
     // Menu choice for combo box
     int menuChoice;
+    
+    // Slider value variables
+    float gain = 0.0f;
+    float level = 0.0f;
+    float tone = 0.0f;
+    
 
 private:
     //==============================================================================
